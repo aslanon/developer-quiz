@@ -47,6 +47,12 @@
     "photoUrl": "https://pbs.twimg.com/profile_images/1757915921270841344/EYVjMJJS_400x400.jpg",
     "title": "python",
     "educationBackground": true
+  },
+  {
+    "firstName": "Kürşad",
+    "lastName": "Bilgin",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1578048869476319232/yI1TLEQW_400x400.jpg",
+    "title": "backend",
+    "educationBackground": true
   }
-  
 ]
