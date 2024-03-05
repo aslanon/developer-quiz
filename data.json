@@ -78,5 +78,12 @@
     "title": "backend",
     "educationBackground": true,
     "power": 0
+  },
+  {
+    "firstName": "Abdullah",
+    "lastName": "Özel",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1677793710099124227/C9CqR_aJ.jpg",
+    "educationBackground": true,
+    "power": 0
   }
 ]
