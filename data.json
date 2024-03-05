@@ -20,10 +20,16 @@
     "title": "mobile",
     "educationBackground": true
   },
-   {
+  {
     "firstName": "Mehmet",
     "lastName": "Şentürk",
     "photoUrl": "https://pbs.twimg.com/profile_images/1713169723301457920/NEmk57Je_400x400.jpg",
+    "title": "frontend",
+    "educationBackground": true
+  {
+    "firstName": "Serhan",
+    "lastName": "Erturk",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1668619214134067207/7NRF9exT_400x400.jpg",
     "title": "frontend",
     "educationBackground": true
   }
