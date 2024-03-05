@@ -19,5 +19,12 @@
     "photoUrl": "https://pbs.twimg.com/profile_images/1751887645305679872/RWxHgwwe_400x400.jpg",
     "title": "mobile",
     "educationBackground": true
+  },
+  {
+    "firstName": "Serhan",
+    "lastName": "Erturk",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1668619214134067207/7NRF9exT_400x400.jpg",
+    "title": "frontend",
+    "educationBackground": true
   }
 ]
