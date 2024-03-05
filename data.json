@@ -4,69 +4,79 @@
     "lastName": "Aslan",
     "photoUrl": "https://pbs.twimg.com/profile_images/1762440123252101120/FV-cjiFm_400x400.jpg",
     "title": "frontend",
-    "educationBackground": false
+    "educationBackground": false,
+    "power": 0
   },
   {
     "firstName": "Onurhan",
     "lastName": "Demir",
     "photoUrl": "https://pbs.twimg.com/profile_images/1602029175853957123/wBHQ9vo9_400x400.jpg",
     "title": "frontend",
-    "educationBackground": true
+    "educationBackground": true,
+    "power": 0
   },
   {
     "firstName": "Rıdvan",
     "lastName": "Özcan",
     "photoUrl": "https://pbs.twimg.com/profile_images/1751887645305679872/RWxHgwwe_400x400.jpg",
     "title": "mobile",
-    "educationBackground": true
+    "educationBackground": true,
+    "power": 0
   },
   {
     "firstName": "Abdullah",
     "lastName": "Bozdağ",
     "photoUrl": "https://pbs.twimg.com/profile_images/1763311285796589568/d7feim41_400x400.jpg",
     "title": "backend",
-    "educationBackground": true
+    "educationBackground": true,
+    "power": 0
   },
   {
     "firstName": "Mehmet",
     "lastName": "Şentürk",
     "photoUrl": "https://pbs.twimg.com/profile_images/1713169723301457920/NEmk57Je_400x400.jpg",
     "title": "frontend",
-    "educationBackground": true
+    "educationBackground": true,
+    "power": 0
   },
   {
     "firstName": "Serhan",
     "lastName": "Erturk",
     "photoUrl": "https://pbs.twimg.com/profile_images/1668619214134067207/7NRF9exT_400x400.jpg",
     "title": "frontend",
-    "educationBackground": true
+    "educationBackground": true,
+    "power": 0
   },
   {
     "firstName": "Mert",
     "lastName": "Cobanov",
     "photoUrl": "https://pbs.twimg.com/profile_images/1757915921270841344/EYVjMJJS_400x400.jpg",
     "title": "python",
-    "educationBackground": true
+    "educationBackground": true,
+    "power": 0
   },
   {
     "firstName": "Kürşad",
     "lastName": "Bilgin",
     "photoUrl": "https://pbs.twimg.com/profile_images/1578048869476319232/yI1TLEQW_400x400.jpg",
     "title": "backend",
-    "educationBackground": true
+    "educationBackground": true,
+    "power": 0
   },
   {
     "firstName": "Melih Safa",
     "lastName": "Çelik",
     "photoUrl": "https://pbs.twimg.com/profile_images/1765036458136477696/GqBYe3Ku.jpg",
     "title": "backend",
-    "educationBackground": false
+    "educationBackground": false,
+    "power": 0
   },
   {
     "firstName": "Hasan",
     "lastName": "Cerit",
     "photoUrl": "https://pbs.twimg.com/profile_images/1765098657244700673/aRYkp1jm_400x400.jpg",
     "title": "backend",
-    "educationBackground": true
+    "educationBackground": true,
+    "power": 0
   }
 ]
