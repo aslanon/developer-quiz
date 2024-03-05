@@ -40,5 +40,13 @@
     "photoUrl": "https://pbs.twimg.com/profile_images/1668619214134067207/7NRF9exT_400x400.jpg",
     "title": "frontend",
     "educationBackground": true
+  },
+  {
+    "firstName": "Mert",
+    "lastName": "Cobanov",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1757915921270841344/EYVjMJJS_400x400.jpg",
+    "title": "python",
+    "educationBackground": true
   }
+  
 ]
