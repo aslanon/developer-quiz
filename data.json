@@ -54,5 +54,12 @@
     "photoUrl": "https://pbs.twimg.com/profile_images/1578048869476319232/yI1TLEQW_400x400.jpg",
     "title": "backend",
     "educationBackground": true
-  }
+  },
+  {
+    "firstName": "Melih Safa",
+    "lastName": "Çelik",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1765036458136477696/GqBYe3Ku.jpg",
+    "title": "backend",
+    "educationBackground": false
+  },
 ]
