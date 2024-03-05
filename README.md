@@ -1,4 +1,4 @@
-Yazılım Geliştiriciler İçin Quiz
+# Yazılım Geliştiriciler İçin Quiz
 
 Bu uygulamada bazı yazılım geliştiricilerinin sadece ad, soyad ve fotoğrafından hangi alanda yazılım geliştiricisi olduğunu tahmin etmeye çalışacaksınız. 
 
