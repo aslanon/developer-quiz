@@ -19,5 +19,12 @@
     "photoUrl": "https://pbs.twimg.com/profile_images/1751887645305679872/RWxHgwwe_400x400.jpg",
     "title": "mobile",
     "educationBackground": true
+  },
+   {
+    "firstName": "Mehmet",
+    "lastName": "Şentürk",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1713169723301457920/NEmk57Je_400x400.jpg",
+    "title": "frontend",
+    "educationBackground": true
   }
 ]
