@@ -78,5 +78,12 @@
     "title": "backend",
     "educationBackground": true,
     "power": 0
+  },
+  {
+    "firstName": "Betül",
+    "lastName": "Şimşek",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1765299707016880128/oM2HvqNm_400x400.jpg",
+    "title": "backend",
+    "educationBackground": false
   }
 ]
